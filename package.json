@@ -1,0 +1,25 @@
+{
+  "name": "abv-bc-slc",
+  "version": "1.0.0",
+  "description": "A function to test for primes of a range of numbers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oti4me/abv-bc-slc.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[B"
+  ],
+  "author": "Henry Otighe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oti4me/abv-bc-slc/issues"
+  },
+  "homepage": "https://github.com/oti4me/abv-bc-slc#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
